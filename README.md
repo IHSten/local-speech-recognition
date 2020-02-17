@@ -1,5 +1,5 @@
 # toxicity-detector
-Software portion for voice recognition to trigger events when a speaker is detected to be toxic
+A dockerized RESTful server that allows for local voice recognition using Flask and Pocketsphinx through the SpeechRecognition library for home automation and other uses.
 
 ## Requirements
 SpeechRecognition and its associated Pocketsphinx dependencies
